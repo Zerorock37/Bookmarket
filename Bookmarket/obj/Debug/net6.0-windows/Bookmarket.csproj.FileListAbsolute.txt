@@ -1,0 +1,17 @@
+C:\Users\Ashi\source\repos\Bookmarket\Bookmarket\bin\Debug\net6.0-windows\Bookmarket.exe
+C:\Users\Ashi\source\repos\Bookmarket\Bookmarket\bin\Debug\net6.0-windows\Bookmarket.deps.json
+C:\Users\Ashi\source\repos\Bookmarket\Bookmarket\bin\Debug\net6.0-windows\Bookmarket.runtimeconfig.json
+C:\Users\Ashi\source\repos\Bookmarket\Bookmarket\bin\Debug\net6.0-windows\Bookmarket.dll
+C:\Users\Ashi\source\repos\Bookmarket\Bookmarket\bin\Debug\net6.0-windows\Bookmarket.pdb
+C:\Users\Ashi\source\repos\Bookmarket\Bookmarket\obj\Debug\net6.0-windows\Bookmarket.csproj.AssemblyReference.cache
+C:\Users\Ashi\source\repos\Bookmarket\Bookmarket\obj\Debug\net6.0-windows\Bookmarket.Form1.resources
+C:\Users\Ashi\source\repos\Bookmarket\Bookmarket\obj\Debug\net6.0-windows\Bookmarket.csproj.GenerateResource.cache
+C:\Users\Ashi\source\repos\Bookmarket\Bookmarket\obj\Debug\net6.0-windows\Bookmarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashi\source\repos\Bookmarket\Bookmarket\obj\Debug\net6.0-windows\Bookmarket.AssemblyInfoInputs.cache
+C:\Users\Ashi\source\repos\Bookmarket\Bookmarket\obj\Debug\net6.0-windows\Bookmarket.AssemblyInfo.cs
+C:\Users\Ashi\source\repos\Bookmarket\Bookmarket\obj\Debug\net6.0-windows\Bookmarket.csproj.CoreCompileInputs.cache
+C:\Users\Ashi\source\repos\Bookmarket\Bookmarket\obj\Debug\net6.0-windows\Bookmarket.dll
+C:\Users\Ashi\source\repos\Bookmarket\Bookmarket\obj\Debug\net6.0-windows\refint\Bookmarket.dll
+C:\Users\Ashi\source\repos\Bookmarket\Bookmarket\obj\Debug\net6.0-windows\Bookmarket.pdb
+C:\Users\Ashi\source\repos\Bookmarket\Bookmarket\obj\Debug\net6.0-windows\Bookmarket.genruntimeconfig.cache
+C:\Users\Ashi\source\repos\Bookmarket\Bookmarket\obj\Debug\net6.0-windows\ref\Bookmarket.dll
